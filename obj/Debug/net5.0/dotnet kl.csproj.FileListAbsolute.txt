@@ -1,0 +1,16 @@
+W:\cs nganh mang\dotnet kl\bin\Debug\net5.0\dotnet kl.exe
+W:\cs nganh mang\dotnet kl\bin\Debug\net5.0\dotnet kl.deps.json
+W:\cs nganh mang\dotnet kl\bin\Debug\net5.0\dotnet kl.runtimeconfig.json
+W:\cs nganh mang\dotnet kl\bin\Debug\net5.0\dotnet kl.runtimeconfig.dev.json
+W:\cs nganh mang\dotnet kl\bin\Debug\net5.0\dotnet kl.dll
+W:\cs nganh mang\dotnet kl\bin\Debug\net5.0\ref\dotnet kl.dll
+W:\cs nganh mang\dotnet kl\bin\Debug\net5.0\dotnet kl.pdb
+W:\cs nganh mang\dotnet kl\obj\Debug\net5.0\dotnet kl.csprojAssemblyReference.cache
+W:\cs nganh mang\dotnet kl\obj\Debug\net5.0\dotnet kl.GeneratedMSBuildEditorConfig.editorconfig
+W:\cs nganh mang\dotnet kl\obj\Debug\net5.0\dotnet kl.AssemblyInfoInputs.cache
+W:\cs nganh mang\dotnet kl\obj\Debug\net5.0\dotnet kl.AssemblyInfo.cs
+W:\cs nganh mang\dotnet kl\obj\Debug\net5.0\dotnet kl.csproj.CoreCompileInputs.cache
+W:\cs nganh mang\dotnet kl\obj\Debug\net5.0\dotnet kl.dll
+W:\cs nganh mang\dotnet kl\obj\Debug\net5.0\ref\dotnet kl.dll
+W:\cs nganh mang\dotnet kl\obj\Debug\net5.0\dotnet kl.pdb
+W:\cs nganh mang\dotnet kl\obj\Debug\net5.0\dotnet kl.genruntimeconfig.cache
